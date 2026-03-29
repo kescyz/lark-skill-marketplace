@@ -1,0 +1,15 @@
+{
+  "name": "lark-skill-marketplace",
+  "description": "Complete LarkSuite integration for Claude Code",
+  "owner": {
+    "name": "KesFlow",
+    "email": "hungkescy@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "lark-skill",
+      "source": "./",
+      "description": "Complete LarkSuite integration - calendar, tasks, messenger, docs, drive, wiki, sheets, base, contacts, comments"
+    }
+  ]
+}

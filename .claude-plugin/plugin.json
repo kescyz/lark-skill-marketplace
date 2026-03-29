@@ -1,0 +1,10 @@
+{
+  "name": "lark-skill",
+  "version": "2.1.2",
+  "description": "Complete LarkSuite integration - calendar, tasks, messenger, docs, drive, wiki, sheets, base, contacts, comments. Use when user asks about Lark workspace features.",
+  "author": {"name": "KesFlow"},
+  "homepage": "https://larkskill.kesflow.vn",
+  "repository": "https://github.com/kescyz/lark-skill-marketplace",
+  "license": "proprietary",
+  "keywords": ["lark", "larksuite", "feishu", "productivity", "mcp"]
+}
